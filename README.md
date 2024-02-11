@@ -1,3 +1,6 @@
+# Site is live - Hosted with Netlify
+[Visit now | List your todos](https://writeyourtodo.netlify.app/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
